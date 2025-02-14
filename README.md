@@ -1,0 +1,1 @@
+A Tabela Dinâmica exibe, de forma clara, a distribuição dos valores por cidade e por pessoa, segmentada por estado. Essa visão facilita a identificação dos locais (e das pessoas/subitens) que geram maior ou menor volume e, consequentemente, orienta tomadas de decisão mais estratégicas, como foco de investimento, melhoria de processos ou ações de marketing.
